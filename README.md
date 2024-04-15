@@ -1,6 +1,4 @@
 - 👋 Hi, my name is Amy
-- 👀 I’m interested in UX design
-- 🌱 I’m currently learning html, CSS and JavaScript
 - 💞️ I’m looking forward to learning more about backend development
 - 📫 I'm currently in college pursuing a BA in Computer Science
 
